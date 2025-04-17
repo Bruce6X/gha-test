@@ -7,3 +7,4 @@ flowchart TD
     B-->D(fa:fa-spinner)
     B-->E(A fa:fa-camera-retro perhaps?)
 ```
+
